@@ -145,4 +145,4 @@ Join @SDBotsz 🆗
 """
 )
 
-DTbot.run()
+SDbot.run()
